@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE productos SYSTEM "TercerEjercicio.dtd">
+
+
+<productos>
+    <producto>
+        <raton>
+            <codigo>27A</codigo>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>28A</codigo>
+            <descripcion>Teclado Inalambrico</descripcion>
+        </teclado>
+    </producto>
+    <producto>
+        <monitor>
+            <codigo>29A</codigo>
+            <descripcion>Monitor 4D</descripcion>
+        </monitor>
+    </producto>
+</productos>
